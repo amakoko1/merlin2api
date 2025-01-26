@@ -2,8 +2,7 @@
 
 基于 [@SMNETSTUDIO/GetMerlin2Api](https://github.com/SMNETSTUDIO/GetMerlin2Api) 的 go 版本改编实现。
 
-## 功能特点
-- 提供多种大型语言模型的无key访问
+## 声明
 - 仅用于学术研究和交流学习
 
 ## 支持模型
