@@ -6,10 +6,18 @@
 - 仅用于学术研究和交流学习
 
 ## 支持模型
+- gpt-3.5-turbo
+- gpt-4o
 - gpt-4o-mini
-- deepseek-chat
+- o3-mini
+- claude-3-sonnet
 - claude-3-haiku
+- claude-3.5-haiku
+- claude-3.5-sonnet
+- deepseek-chat
+- deepseek-reasoner
 - gemini-1.5-flash
+- mistralai/Mixtral-8x7B-Instruct-v0.1
 
 ## Docker部署
 ### 拉取
